@@ -1,0 +1,9 @@
+Time=0  | A=15 | B=05 | Opcode=000 | Result=1A | Carry=0 | Zero=0
+Time=10 | A=15 | B=05 | Opcode=001 | Result=10 | Carry=0 | Zero=0
+Time=20 | A=15 | B=05 | Opcode=010 | Result=05 | Carry=0 | Zero=0
+Time=30 | A=15 | B=05 | Opcode=011 | Result=15 | Carry=0 | Zero=0
+Time=40 | A=15 | B=05 | Opcode=100 | Result=10 | Carry=0 | Zero=0
+Time=50 | A=15 | B=05 | Opcode=101 | Result=EA | Carry=0 | Zero=0
+Time=60 | A=15 | B=05 | Opcode=110 | Result=16 | Carry=0 | Zero=0
+Time=70 | A=15 | B=05 | Opcode=111 | Result=14 | Carry=0 | Zero=0
+Time=80 | A=FF | B=01 | Opcode=000 | Result=00 | Carry=1 | Zero=1
